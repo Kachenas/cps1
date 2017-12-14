@@ -7,11 +7,7 @@
 }
 
 body {
-	background: url("../images/bg.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-attachment: fixed;
-	min-height:100%;
+	background-color: #000000;
 }
 
 /*default styling p,li,ul,ol,h1,h2,h3,h4*/
